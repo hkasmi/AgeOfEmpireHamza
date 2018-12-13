@@ -1,0 +1,6 @@
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLL\bin\Debug\AOE.BLL.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLL\bin\Debug\AOE.BLL.pdb
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLL\obj\Debug\AOE.BLL.csprojAssemblyReference.cache
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLL\obj\Debug\AOE.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLL\obj\Debug\AOE.BLL.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLL\obj\Debug\AOE.BLL.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\obj\Debug\AOE.BLLTests.csprojAssemblyReference.cache
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\obj\Debug\AOE.BLLTests.csproj.CoreCompileInputs.cache
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\AOE.BLLTests.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\AOE.BLLTests.pdb
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\AOE.BLL.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\AOE.BLL.pdb
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\obj\Debug\AOE.BLLTests.csproj.CopyComplete
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\obj\Debug\AOE.BLLTests.dll
+C:\Users\Kasmi.h\Documents\GitKraken\AgerOfEmpire\AOE.BLLTests\obj\Debug\AOE.BLLTests.pdb
